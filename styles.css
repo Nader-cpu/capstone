@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(155, 201, 248);
+}
+
+.container-align {
+  display: flex;
+  align-content: center;
+}
+
+.container-align {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.myimage {
+  border-radius: 50%;
+  height: 200px;
+}
+
+.codingimage {
+  border-radius: 10%;
+}
